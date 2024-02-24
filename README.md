@@ -19,8 +19,7 @@
 <br>
 
 <pre align = "center">Glad to see you here!</pre>
-<br>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4> Languages :</h4>
