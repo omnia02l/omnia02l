@@ -15,6 +15,7 @@
 <a href="https://www.facebook.com/voeu.lhdr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="voeu.lhdr1" height="30" width="40" /></a>
 
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
+<br>
 <hr>
 
 <p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
