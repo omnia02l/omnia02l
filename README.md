@@ -1,11 +1,16 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Omnia Lahdhiri</h1>
+<h1 align="center">I'm Omnia Lahdhiri</h1>
 <h3 align="center">Software Engineering Student at ESPRIT</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omnia02l&label=Profile%20views&color=0e75b6&style=flat" alt="omnia02l" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omnia02l" alt="omnia02l" /></a> </p>
+<!-- 
+<a href="https://www.linkedin.com/in/omnia2000/"><img src="linkedin.png" alt="linkedin" height="170"/></a> -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omnia02l&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/omnia02l/omnia02l) -->
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omnia02l&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 - 📫 How to reach me **omnia.lahdhiri@esprit.tn** or **omnia.lah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +19,9 @@
 <a href="https://www.facebook.com/voeu.lhdr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="voeu.lhdr1" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width="280" align="right">
+<!-- <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width="280" align="right"> -->
 <br>
-<br>
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
