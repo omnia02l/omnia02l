@@ -48,8 +48,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-  <img src="https://worldvectorlogo.com/logo/gitlab.svg" alt="GitLab" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/GitLab_icon.svg" alt="GitLab" width="40" height="40"/>
 </a>
+
   <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40"/>
 </a>
